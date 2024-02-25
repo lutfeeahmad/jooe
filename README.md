@@ -1,2 +1,2 @@
-# jooe
+# jooe-npm
 tea testnet
