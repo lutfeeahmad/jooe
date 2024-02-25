@@ -1,0 +1,2 @@
+# jooe
+tea testnet
